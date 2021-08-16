@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Minesweeper</string>
+    <string name="flagText">Flag</string>
+    <string name="gameStatus">Let\'s Begin!</string>
+    <string name="text_head">That Was Not A Bomb!</string>
+    <string name="new_game">New Game?</string>
+    <string name="new_game_announce">New Game Has Started.</string>
+    <string name="you_lose">You Have Lost!</string>
+    <string name="you_have">You Have\u0020</string>
+    <string name="flags_left">\u0020Flags Left!</string>
+    <string name="win_message">You Have Won!</string>
+    <string name="tv_bombs_total">\u0020Bombs Total!</string>
+    <string name="kaboom_msg">KABOOM!</string>
+    <string name="congrats_msg">CONGRATULATIONS</string>
+    <string name="better_luck_msg">Better Luck This Time!</string>
+    <string name="win_again_msg">Win Again!</string>
+</resources>
